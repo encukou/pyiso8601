@@ -1,4 +1,4 @@
-import iso8601
+from . import iso8601
 import unittest
 
 class TestISO8601(unittest.TestCase):
